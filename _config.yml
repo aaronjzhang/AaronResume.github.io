@@ -1,0 +1,8 @@
+title: Aaronresume.GitHub.io
+description: 个人简历
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
